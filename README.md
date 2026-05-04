@@ -1,5 +1,7 @@
+![famgoemba](image/github.png)
+
 # 💫 About Me:
-Saya adalah seorang mahasiswa Informatika yang berfokus pada pengembangan aplikasi mobile dan desain antarmuka pengguna. Saya memiliki ketertarikan pada estetika visual modern dan sering mengintegrasikan musik ke dalam alur kerja saya untuk meningkatkan konsentrasi.
+Saya adalah seorang mahasiswa Sistem Informasi yang berfokus pada pengembangan aplikasi mobile dan desain antarmuka pengguna. Saya memiliki ketertarikan pada estetika visual modern dan sering mengintegrasikan musik ke dalam alur kerja saya untuk meningkatkan konsentrasi.
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=1000&auto=format&fit=crop" alt="Porsche 911" width="100%" />

@@ -1,13 +1,13 @@
 # 💫 About Me:
 Saya adalah seorang mahasiswa Informatika yang berfokus pada pengembangan aplikasi mobile dan desain antarmuka pengguna. Saya memiliki ketertarikan pada estetika visual modern dan sering mengintegrasikan musik ke dalam alur kerja saya untuk meningkatkan konsentrasi.
 
-*   **🎓 Education**: University Student (Informatics).
-*   **🚗 Interests**: Sports cars and mobile technology.
-*   **🎨 Style**: Dark-themed aesthetics & lo-fi vibes.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=1000&auto=format&fit=crop" alt="Porsche 911" width="100%" />
+</p>
 
-## 🛠️ Current Projects:
-*   **WashPoint**: Aplikasi mobile berbasis Flutter untuk pencarian gerai carwash.
-*   **Kolektif Hobi**: Platform manajemen komunitas dengan integrasi Firebase.
+<p align="center">
+  <img src="https://www.car-logos.org/wp-content/uploads/2011/09/porsche.png" alt="Porsche Logo" width="100" />
+</p>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Famgoemba) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dfaqlsyah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DaffaAqilahsyah) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/faaboii) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@famgoembaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Dcacruz06) 

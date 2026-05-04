@@ -1,7 +1,12 @@
 ![famgoemba](image/github.png)
 
 # 💫 About Me:
-Saya adalah seorang mahasiswa Sistem Informasi yang berfokus pada pengembangan aplikasi mobile dan desain antarmuka pengguna. Saya memiliki ketertarikan pada estetika visual modern dan sering mengintegrasikan musik ke dalam alur kerja saya untuk meningkatkan konsentrasi.
+Seorang mahasiswa **Sistem Informasi** yang berfokus pada **Mobile Development** dan **UI/UX Design**. Saya memiliki dedikasi untuk membangun aplikasi yang fungsional dengan estetika visual yang modern. Dalam bekerja, saya sering mengintegrasikan musik untuk menjaga ritme kerja dan kreativitas tetap optimal dan saya sangat suka Sport car.
+
+*   **🎓 Education**: Multi Data Palembang University.
+*   **📱 Specialization**: Mobile App Development (Flutter & Firebase).
+*   **🎨 Interests**: Modern UI Design, Sports Cars, & Band.
+*   **🛠️ Current Focus**: Building "WashPoint" & "Kolektif Hobi".
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Famgoemba) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dfaqlsyah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DaffaAqilahsyah) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/faaboii) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@famgoembaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Dcacruz06) 

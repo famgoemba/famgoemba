@@ -16,3 +16,4 @@ I am a student, and I like sports cars.
 [![](https://komarev.com/ghpvc/?username=famgoemba&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
